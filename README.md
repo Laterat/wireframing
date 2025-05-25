@@ -138,3 +138,34 @@ Wireframing offers several advantages that improve the overall software developm
 ---
 
 These benefits make wireframing an essential practice in modern software development, contributing to smoother workflows and more effective collaboration.
+## Wireframing in Practice
+
+### Real-World Scenario
+
+During the early planning phase of a hotel booking application, the UI/UX team created low-fidelity wireframes for the main user flow — from searching rooms to confirming a reservation. While reviewing these wireframes with stakeholders, several usability issues were identified:
+
+- **Navigation Confusion**: Users found it unclear how to go back and forth between steps in the booking process.
+- **Information Overload**: The search results page displayed too much information per hotel, which overwhelmed the users.
+- **Lack of Visual Hierarchy**: Important elements like "Book Now" or pricing details were hard to find quickly.
+
+### How the Issues Were Resolved
+
+By iterating on the wireframes:
+
+- Navigation was streamlined with a clear step-by-step progress bar.
+- Content was reorganized into collapsible cards to make the search results cleaner and easier to scan.
+- Visual hierarchy was enhanced by using larger buttons and better spacing for action items.
+
+These changes were implemented before any high-fidelity design or code was written.
+
+### Impact on the Final Product
+
+Because the problems were caught and resolved early:
+
+- The development team didn’t waste time building and then fixing a flawed interface.
+- User testing showed increased satisfaction and quicker task completion times.
+- Stakeholders approved the final design more quickly since concerns were addressed upfront.
+
+### Conclusion
+
+Wireframing played a critical role in detecting usability issues early. It enabled better decision-making, reduced development costs, and ensured that the final product was intuitive and user-friendly. This real-world example highlights how wireframing isn't just a design tool—it's a strategy for building better, more effective software.

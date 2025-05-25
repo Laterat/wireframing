@@ -43,3 +43,48 @@ This element shows where different types of content (text, images, buttons) will
 Functionality refers to the interactive features and actions users can perform, like buttons, forms, or sliders.
 
 **Example:** A wireframe for a login page might include input fields for username and password, a “Forgot Password” link, and a “Login” button to submit credentials.
+## Types of Wireframes
+
+Wireframes are typically categorized based on their level of detail and fidelity. The two main types are:
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic, rough sketches or outlines that focus on structure and layout without detailed design elements.
+
+**Characteristics:**
+- Simple shapes like boxes and lines
+- No colors, images, or precise content
+- Often hand-drawn or quickly built with basic tools
+
+**When Used:**
+- Early in the design process
+- For brainstorming and idea exploration
+- When presenting to stakeholders for initial feedback
+
+**Example Use Case:**
+Sketching the main layout of a homepage with placeholders for the header, content area, and footer.
+
+---
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and closer to the final design. They may include typography, colors, icons, and interactive elements.
+
+**Characteristics:**
+- Realistic design elements (fonts, colors, etc.)
+- Reflect actual spacing and content
+- Created using design tools like Figma
+
+**When Used:**
+- In later stages of design
+- For user testing and developer handoff
+- To simulate real user interaction
+
+**Example Use Case:**
+Creating a detailed wireframe of a product detail page that shows the actual product image, description, pricing, and call-to-action buttons.
+
+---
+
+## What Type of Wireframe Is This?
+
+The wireframe created in this project using Figma is a **High-Fidelity Wireframe**. It includes structured layouts, clear navigation flow, and simulates realistic interface elements. This level of detail makes it suitable for communicating the final design to developers or stakeholders and for usability testing.
